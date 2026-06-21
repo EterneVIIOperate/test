@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 "Change from local clone!"
-=======
 Saturday Sunday Friday.
 Adam Alkatiri.
 Groundhog day yay!
 Fun about to begin.
 Change for someone else!
-
->>>>>>> fc6362cd658ad072f55fbfe7eaf2ecb52ef63c97
